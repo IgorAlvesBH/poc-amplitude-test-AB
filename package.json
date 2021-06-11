@@ -1,6 +1,6 @@
 {
   "name": "nextjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Project Model - Next.js React, Atomic Design, axios, Styled Components, RTL",
   "main": "index.js",
   "scripts": {
