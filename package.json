@@ -4,7 +4,7 @@
   "description": "Project Model - Next.js React, Atomic Design, axios, Styled Components, RTL",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
+    "dev": "rm -rf .next/ && next dev",
     "build": "next build",
     "start": "next start",
     "test": "jest --watch --runInBand --detectOpenHandles"
